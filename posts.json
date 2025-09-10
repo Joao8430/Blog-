@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bem-vindo ao Blog!",
+        "conteudo": "Este é o primeiro post do nosso mini CMS em PHP. Explore os conteúdos, crie novos posts, edite e exclua quando quiser!",
+        "categoria": "Geral",
+        "tags": ["início", "tutorial", "php"]
+    },
+    {
+        "id": 2,
+        "titulo": "Dicas de Programação",
+        "conteudo": "Aqui você encontrará dicas valiosas para programadores iniciantes e avançados. Fique atento às atualizações semanais!",
+        "categoria": "Programação",
+        "tags": ["php", "dicas", "desenvolvimento"]
+    },
+    {
+        "id": 3,
+        "titulo": "Tecnologia e Inovação",
+        "conteudo": "Acompanhe as últimas tendências em tecnologia e inovação. Novas ferramentas e ideias surgem todos os dias!",
+        "categoria": "Tecnologia",
+        "tags": ["inovação", "tech", "novidades"]
+    }
+]
